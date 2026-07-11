@@ -1,7 +1,7 @@
 # Install Dependencies
 
 # Streamlit
-streamlit==1.50.0
+streamlit==1.54.0
 
 # Bibliotecas para manipulação de dados
 numpy==2.2.4
@@ -26,9 +26,8 @@ keras==3.10.0
 
 
 # Bibliotecas para web scraping
-
 beautifulsoup4==4.14.2
-requests==2.32.5
+requests==2.33.0
 
 
 # Bibliotecas para trabalhar com bancos de dados
@@ -39,9 +38,9 @@ psycopg2-binary==2.9.10
 
 jupyter==1.1.1
 notebook==7.4.5
-ipywidgets==8.1.7
+ipywidgets==8.1.8
 
 # Outras bibliotecas úteis
-joblib==1.5.2
+joblib==1.5.3
 
 
