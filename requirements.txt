@@ -26,7 +26,7 @@ keras==3.12.3
 
 
 # Bibliotecas para web scraping
-beautifulsoup4==4.14.2
+beautifulsoup4==4.15.0
 requests==2.33.0
 
 
