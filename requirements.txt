@@ -1,7 +1,7 @@
 # Install Dependencies
 
 # Streamlit
-streamlit==1.59.2
+streamlit==1.65.0
 
 # Bibliotecas para manipulação de dados
 numpy==2.2.6
@@ -13,37 +13,39 @@ matplotlib==3.10.9
 seaborn==0.13.2
 
 # Bibliotecas para análise de dados
-scipy==1.15.2
+scipy==1.15.3
 scikit-learn==1.7.2
 scikit-learn==1.7.2
-scipy==1.15.2
+scipy==1.15.3
 scikit-learn==1.7.2
 
 
 # Bibliotecas para machine learning
-tensorflow==2.20.0
+
 keras==3.12.4
+tensorflow==2.21.0
+
 
 
 # Bibliotecas para web scraping
 beautifulsoup4==4.15.0
-requests==2.33.0
+requests==2.34.2
 
 
 # Bibliotecas para trabalhar com bancos de dados
-sqlalchemy==2.0.49
+sqlalchemy==2.0.54
 psycopg2-binary==2.9.13
 
 # Bibliotecas para Jupyter Notebook
 
 jupyter==1.1.1
 notebook==7.6.3
-ipywidgets==8.1.7
+ipywidgets==8.1.9
 notebook==7.4.5
 ipywidgets==8.1.8
 
 # Outras bibliotecas úteis
-joblib==1.5.3
+joblib==1.6.0
 
 
 
