@@ -21,8 +21,10 @@ scikit-learn==1.7.2
 
 
 # Bibliotecas para machine learning
+
+keras==3.12.4
 tensorflow==2.21.0
-keras==3.12.3
+
 
 
 # Bibliotecas para web scraping
@@ -44,5 +46,6 @@ ipywidgets==8.1.9
 
 # Outras bibliotecas úteis
 joblib==1.6.0
+
 
 
